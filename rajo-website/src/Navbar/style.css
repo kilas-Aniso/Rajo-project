@@ -1,0 +1,8 @@
+.navbar-nav {
+    margin-left: auto;
+    font-size: 1.5rem !important;
+  }
+.navbar-brand{
+    color: #1175D2 !important;
+    font-weight: bold !important;
+}
